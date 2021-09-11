@@ -2,6 +2,10 @@
 
 A new Flutter project. for a flutter developer role
 
+## Tech stack
+* [Flutter](http://flutter.dev/) - a cross-platform, framework for building mobile applications.
+* [Dart](http://dart.dev/) - client-optimized language for fast apps on any platform.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
